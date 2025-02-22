@@ -48,7 +48,7 @@
                         my allah gives you more happiness 
                         you diserve and im always with you and i love you so much enjoy your special day 
                         your all wishis come true i love you momo.</p>
-                        <p class="name">~ Your brother</p>
+                        <p class="name">~ your life partner</p>
                     </div>
             </div>
         </div>
